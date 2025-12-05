@@ -60,4 +60,6 @@ python -m lyrics_maker --prompt "upbeat summer chorus" --length medium --format 
 - Fork, create a feature branch, add tests, and submit a PR.
 
 ## License
-Specify a license in LICENSE (e.g., MIT). If none, add one before publishing.
+
+
+---
